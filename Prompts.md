@@ -62,3 +62,10 @@ Prompt
 ```
 
 Turn plan mode on.
+
+
+## Worktrees
+mkdir .tree
+git worktree add .trees/ui_feature
+git worktree add .trees/test_feature
+git worktree add .trees/qc_feature
